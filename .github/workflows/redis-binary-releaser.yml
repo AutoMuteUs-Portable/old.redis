@@ -28,7 +28,7 @@ jobs:
           mkdir redis
           mv EventLog.dll redis
           mv redis.windows.conf redis
-          mv redis.windows-service.conf
+          mv redis.windows-service.conf redis
           mv redis-server.exe redis
           7z a ..\redis.zip .\redis -mx=9
 
