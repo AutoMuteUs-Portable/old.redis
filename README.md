@@ -1,3 +1,5 @@
+# This is clone of https://github.com/tporadowski/redis
+
 # Redis 5.0.10 for Windows
 
 You can find the release of **Redis 5.0.10 for Windows** on [releases page](https://github.com/tporadowski/redis/releases). Please test it and [report any issues](https://github.com/tporadowski/redis/wiki/Submitting-an-Issue), thanks in advance!
